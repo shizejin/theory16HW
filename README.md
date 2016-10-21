@@ -6,4 +6,6 @@ Homework: write a homemade Python code to implement Support Enumeration Algorith
 ### Part III [Lemke Howson](http://www.oyama.e.u-tokyo.ac.jp/theory16/vonStengel07_3.pdf)
 Homework: write a homemade Python code to implement Lemke Howson Algorithm for finding a Nash Equilibrium starting from atificial equilibrium (0,0).   
 [lemke Howson](http://nbviewer.jupyter.org/github/shizejin/theory16HW/blob/master/Lemke%20Howson.ipynb)   
-[lemke Howson (integer pivoting)](http://nbviewer.jupyter.org/github/shizejin/theory16HW/blob/master/Lemke%20Howson%20%28Integer%20Pivoting%29.ipynb)
+[lemke Howson (integer pivoting)](http://nbviewer.jupyter.org/github/shizejin/theory16HW/blob/master/Lemke%20Howson%20%28Integer%20Pivoting%29.ipynb)  
+[lemke Howson (Enumeration)](http://nbviewer.jupyter.org/github/shizejin/theory16HW/blob/master/Lemke%20Howson%20%28find%20all%20NEs%20that%20can%20be%20reached%29.ipynb)  
+[lemke Howson (degenerate game)](http://nbviewer.jupyter.org/github/shizejin/theory16HW/blob/master/Lemke%20Howson%20%28degenerate%20game%29.ipynb)
