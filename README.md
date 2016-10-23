@@ -9,3 +9,7 @@ Homework: write a homemade Python code to implement Lemke Howson Algorithm for f
 [lemke Howson (integer pivoting)](http://nbviewer.jupyter.org/github/shizejin/theory16HW/blob/master/Lemke%20Howson%20%28Integer%20Pivoting%29.ipynb)  
 [lemke Howson (Enumeration)](http://nbviewer.jupyter.org/github/shizejin/theory16HW/blob/master/Lemke%20Howson%20%28find%20all%20NEs%20that%20can%20be%20reached%29.ipynb)  
 [lemke Howson (degenerate game)](http://nbviewer.jupyter.org/github/shizejin/theory16HW/blob/master/Lemke%20Howson%20%28degenerate%20game%29.ipynb)
+##Second topic: From Imitation Games to Kakutani  
+[From Imitation Games to Kakutani](http://www.oyama.e.u-tokyo.ac.jp/theory16/McLennanTourky06.pdf)  
+Homework: Write your own code for the McLennan-Tourky algorithm in Python or Julia (or both) using your Lemke-Howson implementation, and run it for several example functions on a Jupyter notebook.  
+[ From Imitation to Kakutani](http://nbviewer.jupyter.org/github/shizejin/theory16HW/blob/master/From%20Imitation%20to%20Kakutani.ipynb)
