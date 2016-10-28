@@ -17,4 +17,3 @@ Homework: Write your own code for the McLennan-Tourky algorithm in Python or Jul
 HW5 [Experimental Analysis of Lemke Howson Algorithm](http://nbviewer.jupyter.org/github/shizejin/theory16HW/blob/master/Experimental%20Analysis%20of%20Lemke%20Howson%20Algorithm.ipynb)  
 (see [reference](https://arxiv.org/pdf/0811.3247v1.pdf) here)  
 In my codes, I use the lemke howson function from QuantEcon package by Oyama sensei. I change the source code in my computer so that the lemke howson function can return a bool variable that whether NE is achieved in limited steps and a integer variable that shows how many steps it use (if NE is not found, then the returned step number is exactly capping).  
-The graph don't show significantly improvement in steps lemke howson use to find a NE when we limit the steps for each guess initial pivot. I think this is because I run too few simulations.
